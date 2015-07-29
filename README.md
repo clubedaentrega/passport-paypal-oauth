@@ -1,5 +1,10 @@
 # Passport-PayPal-OAuth
 
+## This fork
+Upgrade lib to use new PayPal URLs and sandbox support
+
+## Original README
+
 [Passport](http://passportjs.org/) strategy for authenticating with [PayPal](http://www.paypal.com/)
 using the OAuth 2.0 API.
 

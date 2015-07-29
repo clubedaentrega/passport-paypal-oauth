@@ -1,14 +1,11 @@
 {
-  "name": "passport-paypal-oauth",
-  "version": "0.1.0",
+  "name": "@clubedaentrega/passport-paypal-oauth",
+  "version": "1.0.0",
   "description": "PayPal (OAuth) authentication strategy for Passport.",
   "keywords": ["passport", "paypal", "auth", "authn", "authentication", "identity"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-paypal-oauth.git"
-  },
-  "bugs": {
-    "url": "http://github.com/jaredhanson/passport-paypal-oauth/issues"
+    "url": "https://github.com/clubedaentrega/passport-paypal-oauth"
   },
   "author": {
     "name": "Jared Hanson",
